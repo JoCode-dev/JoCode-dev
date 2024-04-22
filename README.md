@@ -91,4 +91,4 @@
     </a> 
 </p>
 
-[![JoCode-dev's GitHub | Stats](https://stats.quine.sh/JoCode-dev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JoCode-dev)Å
+[![JoCode-dev's GitHub | Stats](https://stats.quine.sh/JoCode-dev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JoCode-dev)
