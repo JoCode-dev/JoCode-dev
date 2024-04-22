@@ -90,3 +90,6 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
     </a> 
 </p>
+
+[![JoCode-dev's GitHub | Stats](https://stats.quine.sh/JoCode-dev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JoCode-dev)
+[![JoCode-dev's GitHub | Languages Over Time](https://stats.quine.sh/JoCode-dev/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JoCode-dev)
