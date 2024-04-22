@@ -91,5 +91,7 @@
     </a> 
 </p>
 
+<p align="left">
 [![JoCode-dev's GitHub | Stats](https://stats.quine.sh/JoCode-dev/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JoCode-dev)
 [![JoCode-dev's GitHub | Languages Over Time](https://stats.quine.sh/JoCode-dev/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JoCode-dev)
+</p>
