@@ -4,6 +4,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=jocode-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jocode-dev" /> </p>
 
+- 🔭 I'm passionate about creating innovative, creative and scalable applications using technologies like React & NodeJS.
 - 🌱 I’m currently learning **Django, Project management, AWS**
 
 - 📫 How to reach me **cedricduakon@gmail.com**
